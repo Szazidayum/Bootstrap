@@ -1,0 +1,17 @@
+main, header, footer, aside, article, nav{
+}
+body{
+    background-image: url(hatter.jpg);
+}
+main{
+    background-color: white;
+    max-width: 800px;
+    margin: auto;
+}
+.row{
+    margin: auto;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  } 
